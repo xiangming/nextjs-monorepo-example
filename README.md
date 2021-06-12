@@ -44,6 +44,7 @@ Useful to
 > in others tools. See also the FAQ about differences.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/belgattitude/nextjs-monorepo-example)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/belgattitude/nextjs-monorepo-example/tree/main)
 
 ## 1. Structure
 
